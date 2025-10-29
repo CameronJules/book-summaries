@@ -48,3 +48,40 @@ With all the summaries I make I recommend you read or at least skim the book you
 - When coming up with marketing solutions don't assume there are things you cant do.
 - When trying to solve problems, don't assume constraints that aren't really there. 
 - Keep readers interested through the power of curiosity, this helps with the slippery slide.
+
+# Chapter 11 - Copy as emotion
+- You sell a product using emotion but justify a purchase using logic
+- In some case if you create the right emotion and it is strong enough you wont even need logic as much
+- First draft is an emotional outpouring of thoughts on the product . Get all of the feelings and emotions about the subject out on paper and then clean it up in editing later
+- Be very careful with the word you choose because they can paint different pictures in peoples head. think about what thoughts come to mind at the word lawyer, police or farmer
+
+# Chapter 12 - Selling the concept not the product
+- Sell based on the abstract mental representation of the product and what it conveys. Think about selling the sizzle instead of the steak
+- Price point can effect the perceived value and effectiveness of a product.
+
+# Chapter 13/14 - The incubation process / How much copy should you write?
+- Once you have thought about the title, sub headline, and image, wait a while. Let your subconscious process the information. It will synthesize the information and come up with solutions but dont focus on the task do something els and dont interrupt it
+- Leaving time for incubation will allow you to bring all your knowledge and experience together
+- Copy should covert the amount of time you need to create a selling environment, develop interest, relate the product to the prospects needs and make the sale.
+- Lower price point may appear to lack credibility, if you educate the customer first you can subsequently demand more for the product.
+
+# Chapter 15/16 - The art of personal communication / the copy sequence
+- Writing should feel personal as if you are talking 1:1 with the person reading. From me to you.
+- You should consider the readers thoughts so as a question comes up in their heads the copy soon answers it, as if reading their mind. This can be done by 'leading' the prospect rather than guessing their thoughts.
+- Create a block diagram (like a flow diagram) of the logical way the copy flows into questions. Consider the points you want to cover, then the questions that might come up before continuing to the next point.
+- Try 'patterning' your ad, pick a good ad written by someone else and replicate the style of writing.
+
+# Chapter 17 - The editing process
+- Express exactly what you want in the fewest words possible. Cut words out, substitute  words in, add words to clarify. 
+- Repeat important information to make it stick but not in an obnoxious way.
+- Watch out for 'that', usually words leading up to it can be eliminated
+- Edit for rhythm, vary sentence length to not sound monotonous.
+- Consider combining sentences
+- Eliminate unnecessary words
+- Rearrange thoughts so they flow better.
+- Get feedback but dont feel pressured into changing things
+
+# Chapter 18/19 - Powerful copy elements explained/ Psychological triggers
+I wont regurgitate the explanations but will list the points that come up. id recommend referencing the book or searching the terms depending on what part of copy you are working on.
+
+Chapter 18 has 23 elements and chapter 19 has 31 psychological triggers
